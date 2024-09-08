@@ -30,7 +30,7 @@ const CardPreview = () => {
                     </div>
                 </div>
 
-                <div className='md:flex md:flex-col md:gap-8'>
+                <div className='flex flex-col gap-6 md:flex md:flex-col md:gap-8'>
                     <div className='h-56 bg-white border-t-4 rounded-md border-t-red p-6 flex flex-col justify-between shadow-[0px_10px_15px_3px_#cbd5e0] md:w-80'>
                         <div className='flex flex-col gap-2'>
                             <h1 className='text-xl font-semibold text-very-dark-blue'>Team Builder</h1>
